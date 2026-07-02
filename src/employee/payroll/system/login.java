@@ -9,7 +9,7 @@ package employee.payroll.system;
  *
  * @author Hyrex
  */
-import com.sun.glass.events.KeyEvent;
+import java.awt.event.KeyEvent;
 import java.awt.*;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
